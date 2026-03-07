@@ -11,7 +11,7 @@
 
 Motivated Computer Science undergraduate with strong interest in **Artificial Intelligence and Machine Learning**. Passionate about coding, problem solving, and building intelligent systems. Experienced in **Java programming, algorithms, and basic recommendation systems**. Actively learning AI technologies and software development through hands-on projects.
 
----## Education
+## Education
 
 **Bachelor of Technology (B.Tech) – Computer Science Engineering**  
 Current Student  
