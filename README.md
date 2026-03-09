@@ -4,7 +4,7 @@
 
 📍 India  
 📧 Arjun08j@gmail.com
-🔗 GitHub: https://github.com/yourusername a
+🔗 GitHub: https://github.com/arjunj08
 🔗 LinkedIn: https://www.linkedin.com/in/arjun-j-b87a96369/
 
 ## Professional Summary
