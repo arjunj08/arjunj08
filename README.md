@@ -1,135 +1,113 @@
+# 👋 Hi, I'm Arjun J
+
+> *B.Tech CS Student • Aspiring AI/ML Engineer • Builder of cool things*
+
+📍 Hyderabad, India &nbsp;|&nbsp; 📧 Arjun08j@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-j-b87a96369/)
+
+---
+
+## 🚀 About Me
+
+```
+🎓  B.Tech Computer Science Engineering  (Current Student)
+🤖  Passionate about Artificial Intelligence & Machine Learning
+☕  Primary Language: Java  |  Learning: Python
+🌐  Building AI-powered web applications
+🎯  Dream: Land a role in AI/ML Engineering
+📍  Based in Hyderabad, India
+```
+
+**Right now I'm...**
+- 🔭 Building **Voyage** — an AI-powered travel booking app
+- 🤖 Learning **LLMs, Prompt Engineering & Claude AI**
+- 📚 Studying **Machine Learning algorithms & Python**
+- 💡 Open to **collaborating on interesting projects**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+> Java &nbsp;•&nbsp; Python &nbsp;•&nbsp; HTML5 &nbsp;•&nbsp; CSS3 &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
+
+**Frontend**
+> Tailwind CSS &nbsp;•&nbsp; Bootstrap
+
+**AI / ML**
+> Claude AI &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Collaborative Filtering
+
+**Tools**
+> Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code &nbsp;•&nbsp; IntelliJ IDEA &nbsp;•&nbsp; Google Colab
+
+**CS Concepts**
+> Data Structures & Algorithms &nbsp;•&nbsp; OOP &nbsp;•&nbsp; MVC Architecture &nbsp;•&nbsp; Recursion
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-Show Image
-<br>
-B.Tech Computer Science  |  Hyderabad, India  |  Aspiring AI/ML Engineer
+
+<img src="https://github-readme-stats.vercel.app/api?username=arjunj08&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunj08&layout=compact&theme=radical&hide_border=true" width="49%"/>
+
+<img src="https://streak-stats.demolab.com?user=arjunj08&theme=radical&hide_border=true&card_width=650" width="70%"/>
+
 </div>
 
-<img align="right" alt="Coding" width="280" src="coding.gif"/>
-About Me
-pythonclass Arjun:
-    name      = "Arjun J"
-    degree    = "B.Tech Computer Science"
-    location  = "Hyderabad, India"
-    focus     = ["AI/ML", "Web Dev", "Java"]
-    status    = "Actively building"
+---
 
-    currently = {
-        "building"  : "Voyage — AI Travel App",
-        "learning"  : "LLMs and Prompt Engineering",
-        "mastering" : "Python for AI/ML",
-        "open_to"   : "Collaborations and Internships"
-    }
+## 🏗️ Projects
 
-    goal = "Land an AI/ML Engineering role"
-<br clear="right"/>
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 1 | [✈️ Voyage](https://github.com/arjunj08/voyage1) | AI travel app — flights, hotels, trip planner | HTML, Tailwind, Claude AI |
+| 2 | [🧠 AI Study Planner](https://github.com/arjunj08/Ai-app-for-study-planner) | Smart study scheduler with AI chatbot | HTML, CSS, JS, AI |
+| 3 | [👤 User Management System](https://github.com/arjunj08/user-management-system) | Desktop CRUD app with MVC architecture | Java, Swing |
+| 4 | 🎬 Movie Recommendation System | Recommends movies using Manhattan Distance | Java |
 
-Tech Stack
-Languages
-Java          ████████░░   80%
-Python        █████░░░░░   50%
-HTML / CSS    ███████░░░   70%
-JavaScript    ████░░░░░░   40%
-C / C++       ███░░░░░░░   30%
-<table>
-<tr>
-<td width="33%" align="center">
-Frontend
-Tailwind CSS
-Responsive Design
-Lucide Icons
-Bootstrap
-</td>
-<td width="33%" align="center">
-AI / ML
-Claude AI API
-scikit-learn
-NumPy
-Collab. Filtering
-</td>
-<td width="33%" align="center">
-Tools
-Git and GitHub
-VS Code
-IntelliJ IDEA
-Google Colab
-</td>
-</tr>
-</table>
+---
 
-Featured Projects
-<table>
-<tr>
-<td width="50%">
-Voyage — AI Travel App
-Stack  : HTML · Tailwind CSS · Claude AI · PWA
-Status : Live
+## 🎯 2025 Goals
 
-Search Flights, Hotels and Cars
-AI Trip Planner powered by Claude API
-AI Support Chatbot
-Installable as mobile app (PWA)
+- [x] ✅ Build AI-powered travel app (Voyage)
+- [x] ✅ Build AI Study Planner
+- [ ] 🔄 Master Python for Machine Learning
+- [ ] ⏳ Learn Deep Learning & Neural Networks
+- [ ] ⏳ Land an AI/ML Internship
+- [ ] ⏳ Reach 100 day coding streak
+- [ ] ⏳ Contribute to Open Source
 
-</td>
-<td width="50%">
-AI Study Planner
-Stack  : HTML · CSS · JavaScript · AI
-Status : Live
+---
 
-AI-generated study schedules
-Interactive chatbot assistant
-Progress tracking dashboard
-Modern responsive UI
+## 🎓 Education
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-Movie Recommendation System
-Stack  : Java · Collaborative Filtering
-Status : Complete
+**🎓 B.Tech – Computer Science Engineering** *(Current Student)*
 
-Manhattan Distance algorithm
-User-based Collaborative Filtering
-Top-K nearest neighbors
-Similarity score display
+| Subject | Topics |
+|---------|--------|
+| 📊 Algorithms | DSA, Recursion, Time Complexity |
+| ☕ Programming | Java, OOP, MVC |
+| 🤖 AI | Fundamentals, Recommendation Systems |
+| 🖥️ Software Dev | Git, Agile, Problem Solving |
 
-</td>
-<td width="50%">
-User Management System
-Stack  : Java · Swing · MVC Architecture
-Status : Complete
+---
 
-Full CRUD operations
-Advanced search functionality
-Admin dashboard view
-Clean MVC Architecture
+## 🤝 Connect With Me
 
-</td>
-</tr>
-</table>
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | [arjun-j-b87a96369](https://www.linkedin.com/in/arjun-j-b87a96369/) |
+| 📧 Email | [Arjun08j@gmail.com](mailto:Arjun08j@gmail.com) |
+| 🐙 GitHub | [arjunj08](https://github.com/arjunj08) |
 
-GitHub Stats
+---
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=arjunj08&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=arjunj08&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=FFFFFF"/>
-<br><br>
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunj08&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+*"The best way to predict the future is to build it."*
+
+⭐ **If you like my work, drop a star on my repos!** ⭐
+
 </div>
 
-2025 Roadmap
-[x]  Built Voyage — AI Travel App
-[x]  Built AI Study Planner
-[x]  Learned Claude AI API and Prompt Engineering
-[ ]  Master Python for Machine Learning
-[ ]  Deep Learning and Neural Networks
-[ ]  Land an AI/ML Internship
-[ ]  Contribute to Open Source
-[ ]  Reach 100-day coding streak
-
-Connect With Me
-<div align="center">
-PlatformLinkLinkedInarjun-j-b87a96369GmailArjun08j@gmail.comGitHub@arjunj08
-<br>
-"The best way to predict the future is to build it."
-If you find my work useful, drop a star on my repos.
-</div>
