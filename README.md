@@ -1,6 +1,12 @@
+<div align="center">
+
 # 👋 Hi, I'm Arjun J
 
-> *B.Tech CS Student • Aspiring AI/ML Engineer • Builder of cool things*
+<img src="coding.gif" width="400" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=B.Tech+CS+Student;Aspiring+AI%2FML+Engineer;Builder+of+cool+things" alt="Typing SVG" />
+
+</div>
 
 📍 Hyderabad, India &nbsp;|&nbsp; 📧 Arjun08j@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/arjun-j-b87a96369/)
 
@@ -27,19 +33,32 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
-> Java &nbsp;•&nbsp; Python &nbsp;•&nbsp; HTML5 &nbsp;•&nbsp; CSS3 &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; C
+**Languages**<br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**Frontend**
-> Tailwind CSS &nbsp;•&nbsp; Bootstrap
+**Frontend**<br>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**AI / ML**
-> Claude AI &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; NumPy &nbsp;•&nbsp; Collaborative Filtering
+**AI / ML**<br>
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Collaborative Filtering](https://img.shields.io/badge/Collaborative_Filtering-000000?style=for-the-badge&logo=machine-learning&logoColor=white)
 
-**Tools**
-> Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; VS Code &nbsp;•&nbsp; IntelliJ IDEA &nbsp;•&nbsp; Google Colab
+**Tools**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
-**CS Concepts**
+**CS Concepts**<br>
 > Data Structures & Algorithms &nbsp;•&nbsp; OOP &nbsp;•&nbsp; MVC Architecture &nbsp;•&nbsp; Recursion
 
 ---
@@ -95,11 +114,13 @@
 
 ## 🤝 Connect With Me
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | [arjun-j-b87a96369](https://www.linkedin.com/in/arjun-j-b87a96369/) |
-| 📧 Email | [Arjun08j@gmail.com](mailto:Arjun08j@gmail.com) |
-| 🐙 GitHub | [arjunj08](https://github.com/arjunj08) |
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-j-b87a96369/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Arjun08j@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arjunj08)
+
+</div>
 
 ---
 
