@@ -14,14 +14,12 @@
 
 ## 🚀 About Me
 
-```
-🎓  B.Tech Computer Science Engineering  (Current Student)
-🤖  Passionate about Artificial Intelligence & Machine Learning
-☕  Primary Language: Java  |  Learning: Python
-🌐  Building AI-powered web applications
-🎯  Dream: Land a role in AI/ML Engineering
-📍  Based in Hyderabad, India
-```
+- 🎓 **B.Tech Computer Science Engineering** (Current Student)
+- 🤖 Passionate about **Artificial Intelligence & Machine Learning**
+- ☕ Primary Language: **Java** | Learning: **Python**
+- 🌐 Building **AI-powered web applications**
+- 🎯 Dream: **Land a role in AI/ML Engineering**
+- 📍 Based in **Hyderabad, India**
 
 **Right now I'm...**
 - 🔭 Building **Voyage** — an AI-powered travel booking app
@@ -78,12 +76,15 @@
 
 ## 🏗️ Projects
 
-| # | Project | Description | Tech |
-|---|---------|-------------|------|
-| 1 | [✈️ Voyage](https://github.com/arjunj08/voyage1) | AI travel app — flights, hotels, trip planner | HTML, Tailwind, Claude AI |
-| 2 | [🧠 AI Study Planner](https://github.com/arjunj08/Ai-app-for-study-planner) | Smart study scheduler with AI chatbot | HTML, CSS, JS, AI |
-| 3 | [👤 User Management System](https://github.com/arjunj08/user-management-system) | Desktop CRUD app with MVC architecture | Java, Swing |
-| 4 | 🎬 Movie Recommendation System | Recommends movies using Manhattan Distance | Java |
+<div align="center">
+
+[![Voyage](https://github-readme-stats.vercel.app/api/pin/?username=arjunj08&repo=voyage1&theme=radical&hide_border=true)](https://github.com/arjunj08/voyage1)
+[![AI Study Planner](https://github-readme-stats.vercel.app/api/pin/?username=arjunj08&repo=Ai-app-for-study-planner&theme=radical&hide_border=true)](https://github.com/arjunj08/Ai-app-for-study-planner)
+[![User Management System](https://github-readme-stats.vercel.app/api/pin/?username=arjunj08&repo=user-management-system&theme=radical&hide_border=true)](https://github.com/arjunj08/user-management-system)
+
+</div>
+
+*🎬 **Movie Recommendation System** - Recommends movies using Manhattan Distance (Java)*
 
 ---
 
@@ -103,12 +104,10 @@
 
 **🎓 B.Tech – Computer Science Engineering** *(Current Student)*
 
-| Subject | Topics |
-|---------|--------|
-| 📊 Algorithms | DSA, Recursion, Time Complexity |
-| ☕ Programming | Java, OOP, MVC |
-| 🤖 AI | Fundamentals, Recommendation Systems |
-| 🖥️ Software Dev | Git, Agile, Problem Solving |
+- 📊 **Algorithms:** DSA, Recursion, Time Complexity
+- ☕ **Programming:** Java, OOP, MVC
+- 🤖 **AI:** Fundamentals, Recommendation Systems
+- 🖥️ **Software Dev:** Git, Agile, Problem Solving
 
 ---
 
